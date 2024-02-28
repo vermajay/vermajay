@@ -33,6 +33,10 @@
 
 <hr/>
 
+<br/>
+<h3 align="center">I'm currently learning D3 technology for data visualization for web</h3>
+<br/>
+
 <h2 align="center">My Leetcode Stats</h2>
 <div align="center">
     <img src="https://leetcode.card.workers.dev/verma_jay?theme=dark&font=baloo&extension=null&border=0&radius=40&show_rank=false" alt="Leetcode Stats" />
