@@ -34,7 +34,7 @@
 <hr/>
 
 <br/>
-<h3 align="center">I'm currently learning D3 technology for data visualization for web</h3>
+<h3 align="center">I'm currently learning NextJs framework</h3>
 <br/>
 
 <h2 align="center">My Leetcode Stats</h2>
